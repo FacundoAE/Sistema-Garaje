@@ -1,5 +1,7 @@
 # Sistema_Garaje
 
+FIN DEL DESARROLLO: 1/11/2022
+
 SIGEGA
 
 Sistema de Gestión para Garaje
